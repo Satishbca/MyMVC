@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arvin\\source\\repos\\MyMVC\\MyMVC\\MyMVC.csproj": {}
+    "D:\\MyMVC\\MyMVC\\MyMVC\\MyMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arvin\\source\\repos\\MyMVC\\MyMVC\\MyMVC.csproj": {
+    "D:\\MyMVC\\MyMVC\\MyMVC\\MyMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arvin\\source\\repos\\MyMVC\\MyMVC\\MyMVC.csproj",
+        "projectUniqueName": "D:\\MyMVC\\MyMVC\\MyMVC\\MyMVC.csproj",
         "projectName": "MyMVC",
-        "projectPath": "C:\\Users\\arvin\\source\\repos\\MyMVC\\MyMVC\\MyMVC.csproj",
+        "projectPath": "D:\\MyMVC\\MyMVC\\MyMVC\\MyMVC.csproj",
         "packagesPath": "C:\\Users\\arvin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arvin\\source\\repos\\MyMVC\\MyMVC\\obj\\",
+        "outputPath": "D:\\MyMVC\\MyMVC\\MyMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arvin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyMVC
 build_property.RootNamespace = MyMVC
-build_property.ProjectDir = C:\Users\arvin\source\repos\MyMVC\MyMVC\
+build_property.ProjectDir = D:\MyMVC\MyMVC\MyMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\arvin\source\repos\MyMVC\MyMVC
+build_property.MSBuildProjectDirectory = D:\MyMVC\MyMVC\MyMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Home/Index.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Home/Privacy.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/MyStore/Index.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/MyStore/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXlTdG9yZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Shared/Error.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/SoapStor/Edit.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/SoapStor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFN0b3JcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/SoapStor/Index.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/SoapStor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFN0b3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/SoapStor/Insert.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/SoapStor/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29hcFN0b3JcSW5zZXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Student/Index.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Student/Insert.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Student/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbnNlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Student/update.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Student/update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFx1cGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Teachar/Index.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Teachar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hhclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Teachar/Insert.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Teachar/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hhclxJbnNlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/_ViewImports.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/_ViewStart.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/arvin/source/repos/MyMVC/MyMVC/Views/Shared/_Layout.cshtml]
+[D:/MyMVC/MyMVC/MyMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-g867m57r8w
