@@ -596,11 +596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyMVC\\MyMVC\\MyMVC\\MyMVC.csproj",
+      "projectUniqueName": "C:\\Users\\arvin\\source\\repos\\MyMVC\\MyMVC\\MyMVC.csproj",
       "projectName": "MyMVC",
-      "projectPath": "D:\\MyMVC\\MyMVC\\MyMVC\\MyMVC.csproj",
+      "projectPath": "C:\\Users\\arvin\\source\\repos\\MyMVC\\MyMVC\\MyMVC.csproj",
       "packagesPath": "C:\\Users\\arvin\\.nuget\\packages\\",
-      "outputPath": "D:\\MyMVC\\MyMVC\\MyMVC\\obj\\",
+      "outputPath": "C:\\Users\\arvin\\source\\repos\\MyMVC\\MyMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arvin\\AppData\\Roaming\\NuGet\\NuGet.Config",

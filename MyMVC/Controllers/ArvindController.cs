@@ -8,7 +8,7 @@ namespace MyMVC.Controllers
         {
          
             //test
-            
+            //ata
             return View();
         }
     }
