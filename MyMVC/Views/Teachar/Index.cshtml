@@ -1,0 +1,37 @@
+﻿
+<a asp-controller="Teachar" asp-action="Insert" class="btn btn-primary">Create New</a>
+
+<h1>All Teachar List</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>AadharNo</th>
+            <th>phoneNo</th>
+            <th>selery</th>
+            <th>Address</th>
+            
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.Gender</td>
+                <td>@item.AadharNo</td>
+                <td>@item.phoneNo</td>
+                <td>@item.Selery</td>
+            
+                <td> @item.Address</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

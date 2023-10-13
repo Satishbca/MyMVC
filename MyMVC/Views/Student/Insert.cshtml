@@ -1,0 +1,16 @@
+﻿@model MyMVC.Models.Student
+
+
+<form asp-controller="Student" asp-action="Insert">
+    Name: <input asp-for="Name" />
+    <br>
+    Age: <input asp-for="Age"/>
+    <br>
+    FatherName: <input asp-for="FatherName" />
+    <br>
+    Email: <input asp-for="MotherName" />
+    <br>
+    Address: <input asp-for="Address" />
+
+    <input type="submit" value="Create" class="btn btn-primary" />
+</form>

@@ -1,0 +1,22 @@
+﻿@model MyMVC.Models.SoapStor
+
+
+
+
+
+<h2>Edit Storlist</h2>
+
+<form asp-controller="SoapStor" asp-action="Edit" method="post">
+    <input asp-for="Id" class="d-none"></input>
+
+    SoapName: <input asp-for="SoapName" />
+    <label asp-for="Quntity"></label>
+    <input asp-for="Quntity" />
+    <label asp-for="Price"></label>
+    <input asp-for="Price" />
+
+    <input type="submit" value="SaveEdit" class="btn btn-primary" />
+</form>
+
+@*<a asp-controller="SoapStor" asp-action="Edit()" class="btn btn-primary">Edit</a*@
+

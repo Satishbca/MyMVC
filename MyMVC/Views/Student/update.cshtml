@@ -1,0 +1,15 @@
+﻿@model MyMVC.Models.Student
+
+<h2>Edit Storlist</h2>
+
+<form asp-controller="Student" asp-action="Update" method="post">
+    <input asp-for="Id" class="d-none"></input>
+
+    Name: <input asp-for="Name" />
+    Age: <input asp-for="Age" />
+    FatherName: <input asp-for="FatherName" />
+    MotherName: <input asp-for="MotherName" />
+    Address: <input asp-for="Address" />
+
+    <input type="submit" value="SaveUpdate" class="btn btn-primary" />
+</form>

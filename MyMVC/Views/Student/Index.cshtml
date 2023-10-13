@@ -1,0 +1,42 @@
+﻿
+<a asp-controller="Student" asp-action="Insert" Delete" class="btn btn-primary">Cereat  </a>
+
+<h2 class=" text-lg-center  alert-success">Student List And School Student List</h2>
+
+<table class="table table-primary">
+       <thead>
+
+        <tr>
+
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>FatherName</th>
+            <th>MotherName</th>
+            <th>Address</th>
+            <th>Action</th>
+        
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.FatherName</td>
+                <td>@item.MotherName</td>
+                <td>@item.Address</td>
+                <td>
+                    <a asp-controller="Student" asp-action="Update" asp-route-Id="@item.Id" class="btn btn-outline-warning">Update</a>
+                   <a asp-controller="Student" asp-action="Delete" asp-route-Id="@item.Id" class="btn btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>@*
+<a asp-controller="SoapStor" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-warning">Edit</a>
+<a asp-controller="SoapStor" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger">Delete</a>
+                </td>
+*@

@@ -1,0 +1,30 @@
+﻿
+
+<a asp-controller="SoapStor" asp-action="Index" ></a>
+<table class="table">
+    <thead>
+       <tr>
+           <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Address</th>
+            <th>CreatedAt</th>
+       </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Email</td>
+                <td>@item.Phone</td>
+                <td>@item.Address</td>
+                
+            </tr>
+            
+        }
+    </tbody>
+
+</table>
